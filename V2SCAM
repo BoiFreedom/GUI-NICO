@@ -23,7 +23,6 @@ button.Parent = frame
 -- Button Functionality
 button.MouseButton1Click:Connect(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BoiFreedom/Nico-GUI/main/V2))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BoiFreedom/V2/main/Symphony%20Hub"))()
     print("Button clicked!")
 end)
 
